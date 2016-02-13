@@ -14,10 +14,9 @@ Libs:
 
 Custom firmware for keyboard emulation:  ./Arduino-keyboard-0.3.hex
 
-
 Steps:
-1) Compile and upload code from Arduino Studio
-2) Unlock firmware upgrade 
-3) run apply.bat script (arduino now will emulate keyboard)
-4) Put a card on it
+* Compile and upload code from Arduino Studio
+* Unlock firmware upgrade 
+* run apply.bat script (arduino now will emulate keyboard)
+* Put a card on it
 
